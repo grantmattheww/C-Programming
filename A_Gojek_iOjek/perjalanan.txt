@@ -1,0 +1,11 @@
+29#1#kampus umn#sms#tidak ada#22/05/2017#Selasa#1#2#4#10000#1
+30#3#jl palapa#kampus umn#jemput di depan dandan#23/05/2017#Selasa#1#2#4#30000#1
+31#3#jl kencana#jl. kemiri#tidak ada#23/05/2017#Selasa#2#3#4#30000#1
+32#2#kampus umn#sms#jemput depan lobby umn#24/05/2017#Rabu#2#2#4#20000#1
+33#3#kampus umn#jl. kemiri#jemput di depan lobby umn#24/05/2017#Rabu#1#2#4#30000#1
+34#4#jl. surya kencana#kampus umn#jemput di depan toko jaya mulia#24/05/2017#Rabu#1#2#4#40000#1
+35#3#jl. beringin#jl. kemiri#tidak ada#24/05/2017#Rabu#2#2#4#30000#1
+36#5#jl. kp rambutan#carefour lb. bulus#jemput depan halte#24/05/2017#Rabu#1#2#4#50000#1
+38#4#jl. pajajaran#jl. padang jaya#jemput depan indomaret#24/05/2017#Rabu#3#1#4#40000#1
+39#2#kos pascal#kampus umn#jemput depan ruko#24/05/2017#Rabu#2#1#4#20000#1
+40#8#aeon mall#sms#jemput depan lobby aeon mall#25/05/2017#Kamis#2#3#4#12000#1
